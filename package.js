@@ -1,16 +1,13 @@
 {
-  "name": "lc79-md5-predictor-full",
-  "version": "3.0.0",
-  "description": "LC79 MD5 Prediction System - Full A-Z single file",
+  "name": "vanhoa-tx-api",
+  "version": "1.0.0",
+  "description": "API du doan phien dua tren du lieu lich su va mau pattern",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js"
+    "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.19.2",
-    "axios": "^1.7.2",
-    "node-cron": "^3.0.3"
+    "express": "^4.21.2"
   },
   "engines": {
     "node": ">=18.0.0"
